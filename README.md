@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-org/.github/main/assets/banner.png" alt="AI Engineering Team Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=AI%20Engineering%20Team&fontAlign=50&fontSize=40&textBg=false&height=200&desc=Cloud%20%7C%20AI%20%7C%20DevOps%20%7C%20Web&descAlign=50&descAlignY=65" alt="AI Engineering Team Banner" width="100%" />
 </p>
 
 <h1 align="center">🚀 AI & Cloud Engineering Collective</h1>
